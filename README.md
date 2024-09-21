@@ -5,3 +5,5 @@
 🚀 Experienced with modern frameworks, libraries, and tools to build high-performance products.<br/>
 🤝 Collaborative team player, contributing to cross-functional projects and driving innovation.<br/>
 🌱 Exploring Web3 development using JavaScript and decentralized technologies to stay ahead of trends.
+
+![Maxmilla GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxmilla-code&show_icons=true&theme=radical)
