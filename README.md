@@ -18,8 +18,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br/>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Maxmilla-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Maxmilla-code&theme=dark&hide_border=false)<br/>
+
 
 
