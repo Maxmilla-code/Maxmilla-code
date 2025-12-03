@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maxmilla Njahira
 
-### Software Engineer | Full-Stack Developer | Web3 Enthusiast
+### Software Engineer 
 
 I'm a passionate software engineer who thrives on solving performance-driven challenges with user-focused solutions. I love building high-performance products that make a real impact.
 
