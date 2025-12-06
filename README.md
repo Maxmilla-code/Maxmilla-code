@@ -6,7 +6,7 @@ I'm a passionate software engineer who thrives on solving performance-driven cha
 
 <br>
 
-## 🚀 What I Do
+## What I Do
 
 Build scalable, modern web applications with cutting-edge technologies
 
